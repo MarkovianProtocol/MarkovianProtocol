@@ -1,6 +1,6 @@
 # Markovian Protocol
 
-I run a public transparency log: an append-only record where anyone can verify that an entry exists, when it was added, and that its history was never rewritten. Checkpoints are cosigned by seven independent witnesses at a 4-of-7 quorum and anchored to Bitcoin, so verification does not depend on trusting the operator — including me.
+I run a public transparency log: an append-only record where anyone can verify that an entry exists, when it was added, and that its history was never rewritten. Checkpoints are cosigned by seven witnesses from six operators at a 4-of-7 quorum and anchored to Bitcoin, so verification does not depend on trusting the operator — including me.
 
 I use it to offer one service: independent verification. Point me at an audit log, an AI system's records, or a published measurement, and I recompute what it claims from the raw bytes and report what holds and what doesn't.
 
